@@ -48,4 +48,3 @@ The Interface Segregation Principle ensures **clean, focused, and role-specific 
 When in doubt, ask yourself:  
 👉 *“Is this interface forcing clients to depend on things they don’t care about?”*  
 If yes → it violates ISP.  
-Would you like me to also prepare the final README for DIP (Dependency Inversion Principle) so you’ll have the entire SOLID series complete?
